@@ -22,7 +22,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I'm a Security Engineer by professional. A Tech-Guy, with quality knowledge of Info-Sec, App-sec, Network Security, Simply a combo Geek.
+- :telescope: I'm an experienced Security Engineer and Incident Responder, My areas of expertise at Security Solutions , Cyber Security Architect and Compliance, Microsoft Azure learner expertise ( An expert learner is a process, not a fixed goal), I always interact and collaborate with different people with various backgrounds. Next to my passion to motivate other and Myself. I worked in different IT Security industry like Health Insurance, manufacturing, retail market, Law firm, beverage, and many more. A part time practitioner in Offensive Security with Working and practical knowledge.
+
+Can say, I'm pretty good at SIEM & SOAR, SOC monitoring & threat hunting,  Cloud Security, CASB, Windows/Linux system , Application Security, Email Security, IAM, DLP, Vulnerability management. 
+![image](https://github.com/MdTauheedAlam/Md_Tauheed_Alam/assets/45144645/461401de-3518-4ef7-b906-c88ca062bff1)
+
 
 - :seedling: Exploring Security stuffs and enthusiastic in learning new areas.
 
